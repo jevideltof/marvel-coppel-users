@@ -1,0 +1,8 @@
+.env
+venv
+.venv
+flask
+Dockerfile
+uwsgi.ini
+__pycache__/
+CA2_DOCKER.txt
